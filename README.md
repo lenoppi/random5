@@ -8,7 +8,7 @@ Este ejemplo incluye:
 * **random.js** - archivo node.js que calcula un valor e indica si es > o < que 0.5.
 * **.gitignore** - archivo que contiene los archivo que se deben ignorar del repositorio.
 * **Readme.md** - este archivo.
-* **Licence.md** - archivo que indica la licencia del proyecto.
+* **License.md** - archivo que indica la licencia del proyecto.
 
 ## Ejecución
 Para ejecutar solo se debe disponer del entorno node.js y ejecutar node random.js

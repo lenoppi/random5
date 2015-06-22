@@ -6,9 +6,12 @@ Random5 es el código desarrollado para el curso Desarrollo de servicios en la n
 Este ejemplo incluye:
 
 * **random.js** - archivo node.js que calcula un valor e indica si es > o < que 0.5.
-* **.gitignore** - archivo que contiene los archivo que se deben ignorar del repositorio.
+* **.gitignore** - archivo que contiene los archivos que se deben ignorar del repositorio.
 * **Readme.md** - este archivo.
 * **License.md** - archivo que indica la licencia del proyecto.
 
 ## Ejecución
 Para ejecutar solo se debe disponer del entorno node.js y ejecutar node random.js
+
+## Modificaciones
+Las diferentes modificaciones de este archivo se han realizado desde el ordenador local pero también desde el editor utilizando el navegador directamente. 
